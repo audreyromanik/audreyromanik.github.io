@@ -72,6 +72,20 @@ nav a:hover {
     background-color: #d4b3ff;
 }
 
+/* Profile Styles */
+.profile-container {
+    display: flex; /* Use flexbox for layout */
+    align-items: flex-start; /* Align items to the top */
+    margin: 20px; /* Margin around the profile section */
+}
+
+.profile-pic {
+    width: 150px; /* Set width for the profile picture */
+    height: auto; /* Keep aspect ratio */
+    border-radius: 50%; /* Make the image circular */
+    margin-right: 10px; /* Space between image and text */
+}
+
 /* Section Styling */
 section {
     flex: 1;
