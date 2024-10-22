@@ -8,8 +8,8 @@ body {
 
 /* Header Styling */
 header {
-    background-color: #e4c1f9;
-    color: black;
+    background-color: #e7c6ff;
+    color: #5e548e;
     padding: 15px;
     text-align: center;
 }
@@ -34,8 +34,8 @@ section {
 /* Footer Styling */
 footer {
     text-align: center;
-    background-color: #e4c1f9;
-    color: black;
+    background-color: #e7c6ff;
+    color: #5e548e;
     padding: 10px;
     position: fixed;
     width: 100%;
